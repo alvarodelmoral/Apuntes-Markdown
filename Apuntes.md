@@ -87,7 +87,7 @@ __Este también se mostrará en negrita__
 
 Formato: ![Texto alternativo](url)
 ```
-![GitHub Logo](https://github.com/alvarodelmoral/Apuntes Markdown/velez.png)
+![GitHub Logo](https://github.com/alvarodelmoral/Apuntes-Markdown/velez.png)
 
 
 ### Citas
