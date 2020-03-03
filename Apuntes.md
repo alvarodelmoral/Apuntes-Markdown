@@ -2,6 +2,7 @@
 
 ## DOCUMENTACIÓN CON MARKDOWN
 
+
 ### Cabeceras
 
 ```markdown
@@ -18,6 +19,7 @@
 ### Esto es una cabecera de nivel 3
 ---
 
+
 ### Listas sin orden
 
 ```markdown
@@ -33,6 +35,7 @@
     - Subelemento 1
     - Subelemento 2
 
+
 ### Lista con orden
 
 ```markdown
@@ -47,6 +50,7 @@
 3. Elemento 3
     - Subelemento 1
     - Subelemento 2
+
 
 ### Formato
 
@@ -74,6 +78,7 @@ __Este también se mostrará en negrita__
 *Puedes **combinar** ambos formatos*
 
 Puedo ~~tachar~~ el texto
+
 
 ### Enlaces
 
@@ -106,6 +111,7 @@ Como dijo Aragorn:
 > No es oro todo lo que reluce
 > ni toda la gente errante anda perdida
 
+
 ### Tablas 
 
 ```markdown
@@ -122,7 +128,22 @@ Como dijo Aragorn:
 | Palais | Granate | 399€   |
 
 
+### Bloques de código
+
+```markdown
+$(function(){
+    $('div').html('Hola, mundo');
+  });
+```
+$(function(){
+    $('div').html('Hola, mundo');
+  });
+  
+  
+  
+  
 ## CONTROL DE VERSIONES
+
 
 ### Instalación de git
 
