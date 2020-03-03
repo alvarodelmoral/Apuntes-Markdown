@@ -1,6 +1,6 @@
 # TEMA 6: DOCUMENTACIÓN Y CONTROL DE VERSIONES
 
-## Documentación con Markdown
+## DOCUMENTACIÓN CON MARKDOWN
 
 ### Cabeceras
 
@@ -60,6 +60,8 @@ _Este también se mostrará en itálica_
 __Este también se mostrará en negrita__
 
 *Puedes **combinar** ambos formatos*
+
+Puedo ~~tachar~~ el texto 
 ```
 *Este texto se muestra en itálica*
 
@@ -71,6 +73,7 @@ __Este también se mostrará en negrita__
 
 *Puedes **combinar** ambos formatos*
 
+Puedo ~~tachar~~ el texto
 
 ### Enlaces
 
@@ -87,7 +90,7 @@ __Este también se mostrará en negrita__
 
 Formato: ![Texto alternativo](url)
 ```
-![GitHub Logo](https://github.com/alvarodelmoral/Apuntes-Markdown/velez.png)
+![Velez_Logo](https://github.com/alvarodelmoral/Apuntes-Markdown/blob/master/velez.png)
 
 
 ### Citas
@@ -104,7 +107,7 @@ Como dijo Aragorn:
 > ni toda la gente errante anda perdida
 
 
-## Control de versiones
+## CONTROL DE VERSIONES
 
 
 
